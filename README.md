@@ -19,4 +19,5 @@ Install:
 * Implemented Playwright test cases to cover the registration, login, item addition, profile update, password reset, and re-login functionalities
 * Added assertions to validate toast messages
 * Configured .gitignore to exclude unnecessary files and folders (node_modules, .env, etc.)
-* Generated test reports using **Allure
+* Generated test reports using Allure
+* Recorded the automation process and attached below
