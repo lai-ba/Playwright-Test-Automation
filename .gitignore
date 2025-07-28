@@ -1,0 +1,22 @@
+
+# Playwright
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Playwright/Allure test results
+allure-results/
+allure-report/
+mochawesome-report/
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Screenshots or other outputs
+screenshots/
+
