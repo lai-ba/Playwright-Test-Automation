@@ -1,4 +1,5 @@
 **Description**
+
 I have automated the testing of the DailyFinance web application using Playwright JS. The test suite covers the following functionalities:
 
 * User registration and validation of confirmation email & toast message
@@ -7,6 +8,7 @@ I have automated the testing of the DailyFinance web application using Playwrigh
 * Password reset process and successful login validation
 
 **Steps to run the project**
+
 Install:
 * Node.js
 * Playwright
@@ -21,3 +23,14 @@ Install:
 * Configured .gitignore to exclude unnecessary files and folders (node_modules, .env, etc.)
 * Generated test reports using Allure
 * Recorded the automation process and attached below
+
+**Test Report** 
+
+
+<img width="952" height="407" alt="a" src="https://github.com/user-attachments/assets/90234785-2cfd-4c05-a0ec-f265b8d3f31c" />
+
+
+
+
+https://github.com/user-attachments/assets/02e9ee7d-fb0c-4894-8219-fc7f44178ff5
+
